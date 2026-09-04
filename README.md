@@ -106,3 +106,6 @@ Opa,|aqui|está.
 - [ ] Desmarcada
 - [x] Marcada
 ```
+---
+
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic) 
