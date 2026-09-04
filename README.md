@@ -1,4 +1,6 @@
 # **Sintaxes em Markdown**
+---
+## **Títulos**
 
 # Título 1
 ## Título 2
@@ -16,13 +18,13 @@
 ```
 
 ---
-# Formatação
+## **Formatação**
 normal, *itálico*, **negrito**, ~~riscado~~, ~~***itálico negrito riscado***~~.
 ```
 normal, *itálico*, **negrito**, ~~riscado~~, ~~***itálico negrito riscado***~~.
 ```
 ---
-# Citação
+## **Citação**
 >Citação
 >>Citação da citação
 >>>Citação da citação da citação
@@ -35,23 +37,27 @@ normal, *itálico*, **negrito**, ~~riscado~~, ~~***itálico negrito riscado***~~
 >>>>Citação da citação da citação da citação
 ```
 ***
-# Links
+## **Links**
 Aqui à [vídeos de gatinhos](https://www.youtube.com/watch?v=XfELJU1mRMg).
 ```
 Aqui à [vídeos de gatinhos](https://www.youtube.com/watch?v=XfELJU1mRMg).
 ```
 
-###### Não confie no clicável.
+###### **Não confie no clicável.**
 
 Vai para o [outro arquivo](./Outro.md).
 ___
-# Imagem
+## **Imagems**
 ![Definitivamente não é uma bola azul.](https://static3.tcdn.com.br/img/img_prod/388802/caixa_de_presente_lisa_vermelha_varios_modelos_34555_3_cc8f3a971ce351c06c0c0fea2764081a.jpg)
+![Definitivamente não é uma caixa vermelha.](./blue-glossy-ball-png.webp)
+
 ```
 ![Definitivamente não é uma bola azul.](https://static3.tcdn.com.br/img/img_prod/388802/caixa_de_presente_lisa_vermelha_varios_modelos_34555_3_cc8f3a971ce351c06c0c0fea2764081a.jpg)
+
+![Definitivamente não é uma caixa vermelha.](./blue-glossy-ball-png.webp)
 ```
 ___
-# Código
+## **Código**
 `Print("Hello world")`
 
 ```
@@ -60,7 +66,7 @@ ___
 Também dá para usar isso -> ```Print("Hello world")```
 ```
 ___
-# Ordem
+## **Ordem**
 1. Um
    1. Um e meio
 2. Dois
@@ -73,7 +79,7 @@ ___
 ```
 
 ___
-# Lista
+## **Lista**
 - Isso
   - Aqui
 - Aquilo
@@ -87,7 +93,7 @@ ___
     - Bem longe
 ```
 ___
-# Tabela
+## **Tabela**
 Olha|a|tabela!
 :-:|:-:|:-:
 Opa,|aqui|está.
@@ -98,7 +104,7 @@ Opa,|aqui|está.
 ```
 
 ---
-# Checklist
+## **Checklist**
 - [ ] Desmarcada
 - [x] Marcada
 
@@ -108,4 +114,4 @@ Opa,|aqui|está.
 ```
 ---
 
-![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic) 
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=plastic)![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic)
